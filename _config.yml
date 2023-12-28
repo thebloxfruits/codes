@@ -1,13 +1,12 @@
-title: GamePulse - Today's Premier Gaming News Hub
+title: BloxPulse - Gaming News Hub
 author:
   name: GitHub User
-  email: dev@gamehall
+  email: dev@git
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Game News Today: Your go-to source for the latest gaming updates, breaking news, reviews, and exclusive features.
-  Stay informed, stay entertained. Level up your gaming experience with us!
+  Game News Today
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -51,14 +50,7 @@ minima:
 
   # Generate social links in footer.
   social_links:
-  - { platform: quora,       user_url: "https://www.quora.com/profile/Page-256" }
-  - { platform: reddit,         user_url: "https://www.reddit.com/u/ShinyPride4865/" }
-  - { platform: github,         user_url: "https://github.com/gamehallorg/page" }
   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/igamepulses" }
-  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  - { platform: twitter,        user_url: "https://twitter.com/igamepulses" }
-  - { platform: youtube,        user_url: "https://www.youtube.com/@igamepulses" }
+
 
 

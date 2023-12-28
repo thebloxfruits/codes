@@ -7,7 +7,7 @@ categories: game roblox  Robux
 
 ### T-Rex Fruit Debuts
 ![](https://staticg.sportskeeda.com/editor/2023/12/a3cae-17035095112095-1920.jpg)
-After much anticipation, [Roblox Blox Fruits](https://gamehallorg.github.io/page/roblox/2023/12/27/Seven-Proven-Strategies-to-Maximize-Your-Candy-Gains-in-Blox-Fruits.html) welcomed Update 21 with a special Christmas event: Winter Update Part 1. This update introduced a new fruit, subclass, event challenges, limited edition accessories, and discounted bundles. The latest Mythical Blox Fruit, T-Rex debuted in the Winter Update Part 1. This fruit costs 2,700,000 Beli or 2350 Robux from the in-game NPC trader. Here is the moveset of T-Rrex Fruit:
+After much anticipation, [Roblox Blox Fruits](https://thebloxfruits.github.io/codes/roblox/2023/12/27/Seven-Proven-Strategies-to-Maximize-Your-Candy-Gains-in-Blox-Fruits.html) welcomed Update 21 with a special Christmas event: Winter Update Part 1. This update introduced a new fruit, subclass, event challenges, limited edition accessories, and discounted bundles. The latest Mythical Blox Fruit, T-Rex debuted in the Winter Update Part 1. This fruit costs 2,700,000 Beli or 2350 Robux from the in-game NPC trader. Here is the moveset of T-Rrex Fruit:
 - Prey Mark (Passive)
 - Claw Slashes
 - Tail Swipe
