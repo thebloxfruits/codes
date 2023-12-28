@@ -6,7 +6,6 @@ categories: Crypto
 ---
 ![](https://news.xbox.com/en-us/wp-content/uploads/sites/2/minecraft_battleandbeasts2_x1_screenshot_01-1.png)
 ### Organized vs Unorganized PvP
-
 There are two main types of player versus player (PvP) combat in Minecraft - organized and unorganized. Organized PvP involves both players willingly agreeing to fight each other, such as in hunger games maps. Unorganized PvP occurs when one player attacks another without consent, like ambushing another player with powerful weapons. While organized PvP can provide fun challenges between willing opponents, unorganized attacks on unprepared players undermine the spirit of friendly competition. All players should learn to distinguish between these types of PvP and only engage in combat when both sides agree. Stealthily killing another player from behind grants no honor and risks ruining their gameplay experience.
 
 ### Understanding the Basics of Combat
