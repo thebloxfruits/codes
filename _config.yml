@@ -50,7 +50,8 @@ minima:
 
   # Generate social links in footer.
   social_links:
-  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  - { platform: instagram,      user_url: "https://www.instagram.com/iBloxFruits" }
+  - { platform: youtube,      user_url: "https://www.youtube.com/@iBloxFruits" }
 
 
 
